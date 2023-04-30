@@ -5,7 +5,7 @@ This repo is for the integration workflow.
 
     From the repo homepage, Select:
 
-    `Actions` -> `Python application` -> `Configure`.
+    `Actions` -> Search for `Python application` -> `Configure`.
 
 1. Update the workflow so it can be called from another workflow.
 
